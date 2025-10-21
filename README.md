@@ -31,8 +31,8 @@ Amount	Total sales amount
 State	Shipping state
 City	Shipping city
 
-📎 Dataset link:
-🔗 Download Vrinda Store Dataset (Google Drive)
+📎 Dataset:
+  inside File
 
 💭 Business Questions Answered
 
